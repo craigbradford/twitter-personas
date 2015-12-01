@@ -1,0 +1,5 @@
+twitter_ckey = "INSERT TWITTER CONSUMER KEY"
+twitter_csecret = "INSERT TWITTER CONSUMER SECRET"
+twitter_atoken = "INSERT TWITTER AUTH TOKEN"
+twitter_asecret = "INSERT TWITTER AUTH SECRET"
+watson_api_key = "INSERT ALCHEMY API KEY"
